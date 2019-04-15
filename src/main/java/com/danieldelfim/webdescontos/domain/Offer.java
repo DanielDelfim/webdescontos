@@ -1,9 +1,6 @@
 package com.danieldelfim.webdescontos.domain;
 
-import java.io.Serializable;
 import java.util.Date;
-import java.util.List;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -11,13 +8,9 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
-import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -29,51 +22,41 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Coupon  implements Serializable {
-	private static final long serialVersionUID = 1L;
+public class Offer {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 
 	@Column(length = 200)
-	private String title;
+	private String name;
 	
 	@Column(length = 200)
-	private String description;
-
-	@Temporal(TemporalType.TIMESTAMP)
-	private Date initialDate;
-
-	@Temporal(TemporalType.TIMESTAMP)
-	private Date endDate;
-
+	private String product;
+	
 	@Column(length = 50)
-	private String code;
+	private String linkOffer;
 		
 	@Column(length = 50)
-	private String discount;
-		
+	private String thumbnail;
+
 	@Column(length = 100)
-	private String linkCoupon;
-
+	private Double Price;
+	
 	@Column(length = 100)
 	private String urlSeo;
 
 	@Column(length = 100)
 	private Long acess;
 	
-	@ManyToOne(fetch = FetchType.EAGER)
-	@JoinColumn(name = "couponStore_id")
-	private Store couponStore;
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date initialDate;
+
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date endDate;
 	
-	@ManyToMany(fetch = FetchType.LAZY)
-	@JoinTable ( 
-		name = "COUPON_CATEGORY", 
-		joinColumns = {@JoinColumn(name = "coupon_id")}, 
-		inverseJoinColumns = {@JoinColumn(name = "category_id")})
-    @JsonIgnore
-	private List<Category> couponCategories;
-
-} 
-
+	@ManyToOne(fetch = FetchType.EAGER)
+	@JoinColumn(name = "offerStore_id")
+	private Store offerStore;
+	
+}
