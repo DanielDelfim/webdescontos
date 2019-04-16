@@ -1,6 +1,8 @@
 package com.danieldelfim.webdescontos.domain;
 
 import java.util.Date;
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -8,9 +10,13 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -41,7 +47,7 @@ public class Offer {
 	private String thumbnail;
 
 	@Column(length = 100)
-	private Double Price;
+	private Double price;
 	
 	@Column(length = 100)
 	private String urlSeo;
@@ -55,8 +61,22 @@ public class Offer {
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date endDate;
 	
+	@Column(length = 100)
+	private Long afiliadoOfferCategoryId;
+	
+	@Column(length = 100)
+	private String afiliadoOfferCategoryName;
+	
 	@ManyToOne(fetch = FetchType.EAGER)
 	@JoinColumn(name = "offerStore_id")
 	private Store offerStore;
+	
+	@ManyToMany(fetch = FetchType.LAZY)
+	@JoinTable ( 
+		name = "OFFER_CATEGORY", 
+		joinColumns = {@JoinColumn(name = "offer_id")}, 
+		inverseJoinColumns = {@JoinColumn(name = "offerCategory_id")})
+    @JsonIgnore
+	private List<Category> offerCategories;
 	
 }

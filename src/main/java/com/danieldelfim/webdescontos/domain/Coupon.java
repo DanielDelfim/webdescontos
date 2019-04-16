@@ -63,6 +63,12 @@ public class Coupon  implements Serializable {
 	@Column(length = 100)
 	private Long acess;
 	
+	@Column(length = 100)
+	private String afiliadoCouponCategoryId;
+	
+	@Column(length = 100)
+	private String afiliadoCouponCategoryName;
+	
 	@ManyToOne(fetch = FetchType.EAGER)
 	@JoinColumn(name = "couponStore_id")
 	private Store couponStore;
@@ -71,7 +77,7 @@ public class Coupon  implements Serializable {
 	@JoinTable ( 
 		name = "COUPON_CATEGORY", 
 		joinColumns = {@JoinColumn(name = "coupon_id")}, 
-		inverseJoinColumns = {@JoinColumn(name = "category_id")})
+		inverseJoinColumns = {@JoinColumn(name = "couponCategory_id")})
     @JsonIgnore
 	private List<Category> couponCategories;
 

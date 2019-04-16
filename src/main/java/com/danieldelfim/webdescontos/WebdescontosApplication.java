@@ -9,9 +9,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.danieldelfim.webdescontos.domain.Category;
 import com.danieldelfim.webdescontos.domain.Coupon;
+import com.danieldelfim.webdescontos.domain.Offer;
 import com.danieldelfim.webdescontos.domain.Store;
 import com.danieldelfim.webdescontos.repository.CategoryRepository;
 import com.danieldelfim.webdescontos.repository.CouponRepository;
+import com.danieldelfim.webdescontos.repository.OfferRepository;
 import com.danieldelfim.webdescontos.repository.StoreRepository;
 
 @SpringBootApplication
@@ -25,6 +27,9 @@ public class WebdescontosApplication implements CommandLineRunner {
 	
 	@Autowired
 	private CategoryRepository categoryRepository;
+	
+	@Autowired
+	private OfferRepository offerRepository;
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebdescontosApplication.class, args);
@@ -50,13 +55,20 @@ public class WebdescontosApplication implements CommandLineRunner {
 			
 		Coupon c1 = Coupon.builder().id(null).title("desconto inperdivel").description("melhor desconto")
 				.initialDate(null).endDate(null).code(null).discount("10%").linkCoupon("www.submana")
-				.urlSeo("submarino").acess(null).couponStore(s3).couponCategories(Arrays.asList(cat1, cat2)).build();
+				.urlSeo("submarino").acess(null).afiliadoCouponCategoryId("2190").afiliadoCouponCategoryName("Informática")
+				.couponStore(s3).couponCategories(Arrays.asList(cat1, cat2)).build();
 		Coupon c2 = Coupon.builder().id(null).title("melhor desconto").description("loja americanas a melhor")
 				.initialDate(null).endDate(null).code("2315").discount("10%").linkCoupon("www.web").urlSeo("americanas")
-				.acess(null).couponStore(s4).couponCategories(Arrays.asList(cat1)).build(); 
+				.acess(null).afiliadoCouponCategoryId("2190").afiliadoCouponCategoryName("Informática").couponStore(s4)
+				.couponCategories(Arrays.asList(cat1)).build(); 
 
 		couponRepository.saveAll(Arrays.asList(c1, c2));
-				
+		
+		Offer o1 = Offer.builder().id(null).name("Imperdível oferta").product("IPHONE").linkOffer("wwwsubmarinoiphone")
+				.thumbnail("imagemsubmarino").price(null).urlSeo("iphone").acess(null).initialDate(null).endDate(null)
+				.afiliadoOfferCategoryId(null).afiliadoOfferCategoryName(null).offerStore(s3).offerCategories(Arrays.asList(cat1, cat2)).build();
+		
+		offerRepository.saveAll(Arrays.asList(o1));
 	}
 
 }
