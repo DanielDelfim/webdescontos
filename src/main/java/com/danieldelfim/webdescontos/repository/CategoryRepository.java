@@ -8,5 +8,4 @@ import com.danieldelfim.webdescontos.domain.Category;
 @Repository
 public interface CategoryRepository extends CrudRepository<Category, Long>{
 
-	
 }

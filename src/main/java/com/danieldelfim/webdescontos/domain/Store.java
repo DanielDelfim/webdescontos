@@ -12,6 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
+import javax.persistence.SequenceGenerator;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
@@ -25,16 +26,17 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Store  implements Serializable {
+@SequenceGenerator(name = "store_seq", sequenceName = "store_seq", allocationSize = 1, initialValue = 1)
+public class Store implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "store_seq")
 	private Long idStore;
 
 	@Column(length = 200)
 	private String nameStore;
-	
+
 	@Column(length = 200)
 	private String urlImageStore;
 
@@ -46,14 +48,11 @@ public class Store  implements Serializable {
 
 	@Column(length = 50)
 	private String urlSeoStore;
-	
+
 	@ManyToMany(fetch = FetchType.LAZY)
-	@JoinTable ( 
-		name = "STORE_CATEGORY", 
-		joinColumns = {@JoinColumn(name = "store_id")}, 
-		inverseJoinColumns = {@JoinColumn(name = "category_id")})
-    @JsonIgnore
+	@JoinTable(name = "STORE_CATEGORY", joinColumns = { @JoinColumn(name = "store_id") }, inverseJoinColumns = {
+			@JoinColumn(name = "category_id") })
+	@JsonIgnore
 	private List<Category> storeCategories;
 
-	
 }

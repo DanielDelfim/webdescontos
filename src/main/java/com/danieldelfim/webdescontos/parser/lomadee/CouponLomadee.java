@@ -1,19 +1,21 @@
 package com.danieldelfim.webdescontos.parser.lomadee;
 
+import java.util.Date;
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import com.google.gson.annotations.Expose;
-import com.google.gson.annotations.SerializedName;
 
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
 public class CouponLomadee {
-	
+
 	@SerializedName("id")
 	@Expose
 	public Long id;
@@ -38,8 +40,9 @@ public class CouponLomadee {
 	@SerializedName("link")
 	@Expose
 	public String link;
-	@SerializedName("new")
+	
+	@SerializedName("newOrOld")
 	@Expose
-	public Boolean _new;
-
+	public Boolean newOrOld;
+	
 }

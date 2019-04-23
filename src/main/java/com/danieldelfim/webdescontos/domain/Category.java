@@ -7,6 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -18,17 +19,20 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Category  implements Serializable {
+@SequenceGenerator(name = "category_seq", sequenceName = "category_seq", allocationSize = 1, initialValue = 1)
+public class Category implements Serializable {
 	private static final long serialVersionUID = 1L;
-	
+
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "category_seq")
 	private Long id;
 
 	@Column(length = 50)
 	private String name;
-	
+
 	@Column(length = 50)
 	private String urlSeoCategory;
+
+	private Long idLomadee;
 
 }

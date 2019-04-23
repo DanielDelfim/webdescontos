@@ -52,7 +52,7 @@ public class Coupon  implements Serializable {
 	private String code;
 		
 	@Column(length = 50)
-	private String discount;
+	private Double discount;
 		
 	@Column(length = 100)
 	private String linkCoupon;
@@ -62,6 +62,9 @@ public class Coupon  implements Serializable {
 
 	@Column(length = 100)
 	private Long acess;
+	
+	@Column(length = 100)
+	private Boolean newOrOld;
 	
 	@Column(length = 100)
 	private String afiliadoCouponCategoryId;
