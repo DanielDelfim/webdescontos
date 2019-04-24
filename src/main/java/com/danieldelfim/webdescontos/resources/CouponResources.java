@@ -11,8 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.danieldelfim.webdescontos.domain.Coupon;
 import com.danieldelfim.webdescontos.repository.CouponRepository;
-import com.danieldelfim.webdescontos.service.ParserLomadeeService;
-import com.danieldelfim.webdescontos.services.DataBaseBuilder;
+import com.danieldelfim.webdescontos.services.ParserLomadeeService;
 import com.danieldelfim.webdescontos.services.exception.ObjectNotFoundException;
 
 @RestController
@@ -25,9 +24,6 @@ public class CouponResources {
 	@Autowired
 	private ParserLomadeeService parserLomadeeService;
 	
-	@Autowired
-	private DataBaseBuilder dataBaseBuilder;
-
 	@RequestMapping(value = "/{id}", method = RequestMethod.GET)
 	public Coupon find(@PathVariable Long id) {
 		return couponRepository.findById(id).orElseThrow(() -> new ObjectNotFoundException(
@@ -39,14 +35,4 @@ public class CouponResources {
 		parserLomadeeService.executaParserCouponsLomadee();
 	}
 	
-	@RequestMapping(value = "/stores", method = RequestMethod.GET)
-	public void createStores() {
-		dataBaseBuilder.createStores();
-	}
-		
-	@RequestMapping(value = "/categories", method = RequestMethod.GET)
-	public void createCategories() {
-		dataBaseBuilder.createCategories();
-	}
-
 }

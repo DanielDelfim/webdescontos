@@ -1,91 +1,28 @@
-WebFones, Varejo, webfones
-Vení Perfumaria, Cosméticos e Perfumaria, veni-perfumaria
-MadeiraMadeira, Móveis e Decoração, madeira-madeira
-ManiaVirtual, Varejo, mania-virtual
-De Meo, Ferramentas, de-meo
-Gazin, Varejo, gazin
-Avalanche Shop, Varejo, avalanche-shop
-Dutra Maquinas, Varejo, dutra-maquinas
-Mormaii Oficial, Varejo, mormaii
-MobCom, Varejo, mobcom
-Meu Perfume, Varejo, meu-perfume
-Eletrum, Varejo, eletrum
-Corujamix, Varejo, corujamix
-Estrela10, Varejo, estrela10
-ClimaRio, Varejo, climario
-Rythmoon, Varejo, rythmoon
-Connect Parts, Varejo, connect-parts
-P&G, Varejo, peg
-Elg, Varejo, elg	
-Amazon, Varejo, amazon
-Americanas.com, Varejo, americanas, https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Famericanas-com.png?alt=media&token=cb6805e0-6163-44e0-b318-c557adb51228
-Ricardo Eletro, Varejo, ricardo-eletro
-Submarino,	Varejo, submarino
-Girafa, Varejo, girafa
-Nike, Esporte e Lazer, nike
-Lenovo, Informática, lenovo
-Fnac, Livraria, fnac
-Walmart, Varejo, walmart
-Shoptime, Varejo, shoptime
-Livraria da Travessa, Livraria, livraria-travessa
-L'Occitane, Cosméticos e Perfumaria, loccitane
-Centauro, Esporte e Lazer, centauro
-Mobly, Móveis & Decoração, mobly
-Livraria da Folha, Livraria, livraria-folha
-Netshoes, Esporte e Lazer, netshoes
-Mega Mamute, Varejo, mega-mamute
-Ri Happy, Brinquedos e Bebês, rihappy
-Anna Pegova, Cosméticos e Perfumaria, anna-pegova
-Livraria Cultura, Livraria, livraria-cultura
-About Home, Móveis & Decoração, about-home
-Brastemp, Varejo, brastemp
-Classic Tennis, Esporte e Lazer, classic-tennis
-Sieno Perfumes, Cosméticos e Perfumaria, sieno-perfumes
-Zattini, Moda e acessórios, zattini
-Mash, Moda e acessórios, mash
-Moda It, Moda e acessórios, moda-it
-Super Muffato, Varejo, super-muffato
-Havan, Varejo, havan
-Multi Ar, Eletrodomésticos, multi-ar
-Joias Lulean, Varejo, joias-lulean
-MultiLaser, Varejo, multilaser
-Pneu Store, Automotivos, pneu-store
-Chico Rei, Moda e acessórios, chico-rei
-PB Kids, Brinquedos e Bebês, pb-kids
-Monama, Alimentos e Bebidas, monama
-TVZ, Moda e acessórios, tvz
-Gear Best, Varejo, gear-best
-Electrolux, Eletrodomésticos, eletrolux
-Jocar, Automotivos, jocar
-Calixto Cursos, Serviços, calixto-cursos	
-Repassa, Moda e acessórios, repassa
-Aramis, Moda e acessórios, aramis
-Asus, Telefonia e Celulares, asus
-Quantum, Telefonia e Celulares, quantum
-Catho, Serviços, catho
-Positivo, Telefonia e Celulares, positivo
-Lojas Pompeia, Moda e acessórios, lojas-pompeia
-Beline, Moda e acessórios, beline
-Troc, Moda e acessórios, troc
-Vaio, Telefonia e Celulares, vaio
-Estrela, Loja de departamento, estrela
-Key Design, Moda e acessórios, key-design
-Hermoso Compadre, Moda e acessórios, hermoso-compadre
-Malwee, Moda e acessórios, malwee
-Central Ar, Serviços, central-ar
-Beer Planet, Loja de departamento, beer-planet
-Aquelas Coisas, Sexshop, aquelas-coisas
-Reserva, Moda e acessórios, reserva
-Dresslily, Moda e acessórios, dresslily
-Rosegal, Moda e acessórios, rosegal
-Zaful, Moda e acessórios, zaful
-Novo Mundo, Varejo, novo-mundo
-Pierre Cardin, Moda e acessórios, pierra-cardin
-Samsonite, Moda e acessórios, sansonite
-Camicado, Varejo, camicado
-Nova Concursos, Serviços, novos-concursos
-Milla Cabelos, Cosméticos e Perfumaria, milla-cabelos
-People And Pets, Petshop, people-and-pets
-Use Malemolencia, Moda e acessórios, use-malemolencia
-Santo Rock, Moda e acessórios, santo-rock
-Wood Prime, Móveis & Decoração, wood-prime
+5924;About Home;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fabout-home.png?alt=media&token=37543a11-d2f9-4149-9916-d5e82bdf366d;https://www.abouthome.com.br/;A About Home é uma loja online de móveis para todos os ambientes, além de artigos de decoração e utilidades domésticas.;about-home;casa-decoracao;;;;;;;;;;;;;;
+5992;Amazon;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Famazon.png?alt=media&token=f23b874b-8bbe-45a1-9ada-4a157aaf43fa;https://www.amazon.com.br/;A Amazon foi fundada em 1994 e teve seu site lançado em junho do ano seguinte. Com sede em Seattle, nos EUA, a empresa foi umas das primeiras a obter relevância no mercado de comércio eletrônico.;amazon;departamento;;;;;;;;;;;;;;
+5632;Americanas.com;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Famericanas-com.png?alt=media&token=cb6805e0-6163-44e0-b318-c557adb51228;https://www.americanas.com.br/;A Americanas.com é a maior loja da internet brasileira. A loja que tem tudo, tem também as melhores promoções e lançamentos. Seja nosso afiliado e cresça com a gente! A janela de comissão é por sessão;americanas.com;departamento;;;;;;;;;;;;;;
+6092;Amissima;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Famissima.png?alt=media&token=0114bb3e-5752-455f-b293-8b77fc51f861;https://www.amissima.com.br/; O conceito da Amissima é entregar a paixão por se vestir bem e estar na moda em todos os momentos e diferentes lifestyles. A premissa básica é incorporar no dia-a-dia da vida das mulheres;amissima;moda-acessorios;;;;;;;;;;;;;;
+6110;Aramis;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Faramis.png?alt=media&token=a1494344-eec7-4e57-b06a-d327bad4acc5;http://www.aramis.com.br/;A Aramis, com um mix de produtos de qualidade indiscutível, é referência no setor, sendo uma das maiores marcas masculinas do país.;aramis;moda-acessorios;;;;;;;;;;;;;;
+5936;Brastemp;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fbrastemp.png?alt=media&token=05dd288b-cff2-4950-a269-5f7354d403f1;https://loja.brastemp.com.br/;Parte do grupo Whirlpool, a Brastemp já nasceu assiiim... uma Brastemp. Autêntica, predestinada a ser diferente, a apontar caminhos, a ditar tendências.;brastemp;eletrodomesticos;;;;;;;;;;;;;;
+5630;Carrefour Mercado;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fcarrefour-mercado.png?alt=media&token=7302f483-c606-4213-a5e9-e86a3af2a387;https://www.carrefour.com.br/dicas/mercado;Essa campanha trata-se APENAS dos produtos de Mercado de Carrefour para Grande São Paulo Veja em: https://www.carrefour.com.br/dicas/mercado;carrefour-mercado;alimentos-bebidas;;;;;;;;;;;;;;
+6181;Clube Paladar;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fclube-paladar.png?alt=media&token=234889ea-01a2-43c4-b3ee-408fe6d9bc3b;https://www.clubepaladar.com.br/;O Clube Paladar é um e-commerce com programa de assinaturas, focado no mercado gastronômico.;clube-paladar;alimentos-bebidas;;;;;;;;;;;;;;
+5937;Consul;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fconsul.png?alt=media&token=17a147a0-9ce3-454a-98d0-261e928b3ec0;https://loja.consul.com.br/;A Consul tem uma contagiante razão de existir: Ser uma marca com espírito jovem, que cria as melhores ideias ao juntar tecnologia fácil de usar, design inteligente e um jeito de ser cativante.;consul;eletrodomesticos;;;;;;;;;;;;;;
+6207;Cori;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fcori.png?alt=media&token=0eeadf2f-7c0b-4994-b0b3-e08acbac4353;https://www.cori.com.br/;Marca reconhecida no cenário da moda brasileira, a CORI cria roupas e acessórios conectados aos desejos femininos de seu tempo, vestindo mulheres contemporâneas com sofisticação e simplicidade.;cori;moda-acessorios;;;;;;;;;;;;;;
+6080;Diesel;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fdiesel.png?alt=media&token=7fea3d32-9401-4027-86f7-377b9d328dd0;https://br.diesel.com/;Diesel, marca inovadora que é referência de estilo e personalidade, produzindo uma vasta coleção de jeans, roupas e acessórios. Seus produtos são conhecidos pela qualidade, durabilidade e estilo.;diesel;moda-acessorios;;;;;;;;;;;;;;
+6078;Electrolux;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Felectrolux.png?alt=media&token=6f11dee1-c833-4532-a628-f959bdee017f;http://loja.electrolux.com.br/;Líder mundial em eletrodomésticos e aparelhos de uso profissional, a Electrolux vende mais de 50 milhões de produtos/ano em 150 países. É a segunda maior fabricante de linha branca do Brasil.;electrolux;eletrodomesticos;outras;;;;;;;;;;;;;
+6226;Frio Peças;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Ffrio-pecas.png?alt=media&token=6c943773-2602-4617-9d7b-c90e2ae8df25;https://www.friopecas.com.br/;A FRIOPEÇAS iniciou suas atividades em 1994, na cidade de Belo Horizonte, com atuação exclusiva no varejo e atacado de peças originais focados em ar condicionado.;frio-pecas;eletrodomesticos;;;;;;;;;;;;;;
+6280;Gazin;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fgazin.png?alt=media&token=80c78540-c42e-48f5-b99a-7c68322d56ef;https://www.gazin.com.br/; Gazin, a melhor loja de eletrodomésticos, móveis e eletrônicos da internet. Oferecemos sempre o melhor em produtos e serviços com atendimento diferenciado.;gazin;saude-beleza;eletronicos;esportes-lazer;bebe-crianca;casa-decoracao;eletrodomesticos;informatica;celular-smartphone;;;;;;;
+5727;Girafa;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fgirafa.png?alt=media&token=d71d41ad-e41e-465c-a353-60520899a55f;http://www.girafa.com.br/;Girafa atua na comercialização de produtos eletrônicos, saúde & beleza e informatica . O Anunciante remunera seu afiliado a cada venda efetuada a partir dos formatos de divulgação da Lomadee.;girafa;eletronicos;eletrodomesticos;celular-smartphone;saude-beleza;informatica;esportes-lazer;;;;;;;;;
+6138;Hermoso Compadre;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fhermoso-compadre.png?alt=media&token=dbb91e40-fdad-47a2-ac1c-c1fd9de930ff;https://www.hermosocompadre.com.br/;Hermoso Compadre é um e-commerce de roupas masculinas. Trabalham com uma comunicação única e totalmente exclusiva. Todos modelos são desenvolvidos internamente.;hermoso-compadre;moda-acessorios;;;;;;;;;;;;;;
+6209;iRobot;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Firobot.png?alt=media&token=a1f97a28-3afc-487a-9615-bfabdf016b7d;https://www.irobotloja.com.br/;A iRobot é a marca líder em desenvolvimento de Robôs Aspiradores Inteligentes e autônomos. Entregamos uma tecnologia que revoluciona a forma de limpeza e ganhar mais tempo para curtir a vida.;irobot;eletrodomesticos;;;;;;;;;;;;;;
+6227;Kitchenaid;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fkitchenaid.png?alt=media&token=50fc35c2-cfa1-4b34-b79f-f4502a558208;https://www.kitchenaid.com.br/;A KitchenAid foi a primeira marca a criar um produto para a cozinha, que reunisse desempenho impecável e design original. Afinal, a arte também é a nossa inspiração.;kitchenaid;casa-decoracao;eletrodomesticos;;;;;;;;;;;;;
+6260;Lepostiche;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Flepostiche.png?alt=media&token=e5e5cfc1-ceb4-4295-9c0f-224726986b51;https://www.lepostiche.com.br/;A Le Postiche é atualmente a maior rede de bolsas, malas e acessórios de viagem do Brasil, sendo considerada pelos seus consumidores como uma marca “top of mind” em artigos de couro.;lepostiche;malas-mochilas;moda-acessorios;;;;;;;;;;;;;
+6289;Mceig;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fmceig.png?alt=media&token=95a1367c-84de-4329-b2cc-0d7ea4cd7997;https://www.mceigvirtual.com.br/;A MCEIG é a melhor escolha quando o assunto é material elétrico. Com excelentes condições de pagamento, oferece a maior variedade do Brasil em produtos para reforma e construção.;mceig;casa-decoracao;;;;;;;;;;;;;;
+6033;MultiLaser;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fmultilaser.png?alt=media&token=76df27c2-efe3-4f40-ab16-ba4180b764ba;https://www.lojamultilaser.com.br/;A Multilaser é uma das maiores empresas brasileiras no segmento de eletrônicos e suprimentos de informática.;multilaser;informatica;celular-smartphone;saude-beleza;eletrodomesticos;automotivo;eletronicos;;;;;;;;;
+5783;Netshoes;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fnetshoes.png?alt=media&token=8a0aa041-7047-4488-8101-850db7eaf29c;http://www.netshoes.com.br/;Há 12 anos no mercado, a Netshoes é hoje a maior loja de artigos esportivos da internet, entregando em todo o país. Quer ser nosso parceiro? Divulgue a Netshoes e monetize ainda mais o seu site.;netshoes;moda-acessorios;saude-beleza;esportes-lazer;;;;;;;;;;;;
+6167;Novo Mundo;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fnovo-mundo.png?alt=media&token=08513673-e8fc-4be6-9f9b-223e7e43e189;https://www.novomundo.com.br/;A Novo Mundo é uma rede Brasileira de varejo de eletrodomésticos, com sede em Goiânia foi fundada em abril de 1956. Atualmente presente em mais de 9 estados e DF e com mais de 6500 colaboradores.;novo-mundo;eletrodomesticos;tv;eletronicos;celular-smartphone;casa-decoracao;bebe-crianca;brinquedos;saude-beleza;informatica;games;automotivo;esportes-lazer;;;
+6310;Nuuvem;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fnuuvem.png?alt=media&token=0392545b-c8cf-4ace-82e2-27426f4530ee;https://www.nuuvem.com;A Nuuvem é uma distribuidora brasileira de jogos digitais para os sistemas operacionais Windows, macOS e Linux. É possível adquirir lançamentos, títulos clássicos e até mesmo coletâneas de jogos.;nuuvem;games;;;;;;;;;;;;;;
+6211;NutriBullet;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fnutribullet.png?alt=media&token=2e331a60-e171-4447-ab8d-1708ef044111;https://www.nutribulletbrasil.com.br/;A NutriBullet Brasil tem produtos de alta qualidade que ajudam na rotina para a conquista de uma vida mais saudável, leve e prática.;nutribullet;eletrodomesticos;saude-beleza;;;;;;;;;;;;;
+5644;Shoptime;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fshoptime.png?alt=media&token=0236f0af-1b9e-4065-9692-ba81c1d76e8d;https://www.shoptime.com.br/;Divulgue nossos produtos em seu site ou blog e receba comissão de até 4,5% sobre vendas! Com uma alta diversidade de sortimento. Seja um Afiliado Shoptime Lomadee e saia ganhando!;shoptime;departamento;;;;;;;;;;;;;;
+6166;Zaful;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fzaful.png?alt=media&token=aa72c2a0-752f-4d7e-baa3-ac19020eeb97;https://pt.zaful.com/;Zaful é a sua loja on-line para tudo o que há de mais ousado, excitante e de ponta na moda. Nossas coleções redefinem as tendências, oferecendo preços acessíveis com excelentes designs e qualidade.;zaful;moda-acessorios;;;;;;;;;;;;;;
+5953;Zattini;https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Fzattini.png?alt=media&token=e33db7c3-5b40-41f2-99fd-ccb5272b7b00;http://www.zattini.com.br/;A Netshoes acaba de lançar a Zattini, nova loja online criada para atender mulheres, homens e crianças com um mix de marcas conceituadas.;zattini;moda-acessorios;;;;;;;;;;;;;;

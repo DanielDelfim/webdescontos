@@ -1,30 +1,30 @@
 package com.danieldelfim.webdescontos;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.danieldelfim.webdescontos.repository.CategoryRepository;
-import com.danieldelfim.webdescontos.repository.CouponRepository;
-import com.danieldelfim.webdescontos.repository.OfferRepository;
-import com.danieldelfim.webdescontos.repository.StoreRepository;
+import com.danieldelfim.webdescontos.services.DataBaseBuilder;
 
 @SpringBootApplication
-public class WebdescontosApplication {// implements CommandLineRunner
+public class WebdescontosApplication  implements CommandLineRunner {
 
 	@Autowired
-	private CouponRepository couponRepository;
-	@Autowired
-	private StoreRepository storeRepository;
-	@Autowired
-	private CategoryRepository categoryRepository;
-	@Autowired
-	private OfferRepository offerRepository;
+	private DataBaseBuilder dataBaseBuilder;
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebdescontosApplication.class, args);
-
 	}
+	
+	@Override
+	public void run(String... args) throws Exception {
+		dataBaseBuilder.createCategories();
+		dataBaseBuilder.createStores();
+	}
+
+}
+
+
 
 //	@Override
 //	public void run(String... args) throws Exception {
@@ -61,4 +61,4 @@ public class WebdescontosApplication {// implements CommandLineRunner
 //		offerRepository.saveAll(Arrays.asList(o1));
 //	}
 
-}
+

@@ -1,4 +1,4 @@
-package com.danieldelfim.webdescontos.service;
+package com.danieldelfim.webdescontos.services;
 
 import java.io.IOException;
 import java.text.ParseException;

@@ -33,6 +33,9 @@ public class Store implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "store_seq")
 	private Long idStore;
+	
+	@Column(length = 200)
+	private Long IdStoreLomadee;
 
 	@Column(length = 200)
 	private String nameStore;
@@ -43,7 +46,7 @@ public class Store implements Serializable {
 	@Column(length = 200)
 	private String linkStore;
 
-	@Column(length = 200)
+	@Column(length = 300)
 	private String descriptionStore;
 
 	@Column(length = 50)

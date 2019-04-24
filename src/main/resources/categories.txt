@@ -1,15 +1,22 @@
-Informática, informatica
-Outras, outras
-Saúde e Beleza, saude-beleza
-Moda e Acessórios, moda-acessorios
-Eletrodomésticos, eletrodomesticos
-Esportes e Lazer, esporte-lazer
-Eletrônicos, eletronicos
-Celular/Smartphone, celular-smartphone
-CD DVD e Blu-Ray, cd-dvd-blu-ray
-Brinquedos, brinquedos
-Casa e Decoração, casa-decoracao
-TV, tv
-Automotivo, automotivo
-Games, gamos
-Livros, livros
+Alimentos e Bebidas; alimentos-bebidas; 99007
+Automotivo; automotivo; 99009
+Bebê e Criança; bebe-crianca; 99011
+Brinquedos; brinquedos; 99011
+Casa e Decoração; casa-decoracao; 99007
+Pet Shop; pet-shop; 99007
+Celular/Smartphone; celular-smartphone; 77
+Departamento; departamento; 99012
+Eletrodomésticos; eletrodomesticos; 99003
+Eletrônicos; eletronicos; 99002
+Esportes e Lazer; esportes-lazer; 99005
+Games; games; 6409
+Informática; informatica; 99001
+Livros; livros; 3482
+Malas e Mochilas; malas-mochilas; 99004
+Moda e Acessórios; moda-acessorios; 99004
+Outras; outras; 99012
+Perfumes; perfumes; 99008
+Saúde e Beleza; saude-beleza; 99008
+Sex Shop; sex-shop; 99008
+TV; tv; 2852
+Viagem e Turismo; viagem-turismo; 99012
