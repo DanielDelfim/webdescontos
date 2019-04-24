@@ -1,0 +1,91 @@
+WebFones, Varejo, webfones
+Vení Perfumaria, Cosméticos e Perfumaria, veni-perfumaria
+MadeiraMadeira, Móveis e Decoração, madeira-madeira
+ManiaVirtual, Varejo, mania-virtual
+De Meo, Ferramentas, de-meo
+Gazin, Varejo, gazin
+Avalanche Shop, Varejo, avalanche-shop
+Dutra Maquinas, Varejo, dutra-maquinas
+Mormaii Oficial, Varejo, mormaii
+MobCom, Varejo, mobcom
+Meu Perfume, Varejo, meu-perfume
+Eletrum, Varejo, eletrum
+Corujamix, Varejo, corujamix
+Estrela10, Varejo, estrela10
+ClimaRio, Varejo, climario
+Rythmoon, Varejo, rythmoon
+Connect Parts, Varejo, connect-parts
+P&G, Varejo, peg
+Elg, Varejo, elg	
+Amazon, Varejo, amazon
+Americanas.com, Varejo, americanas, https://firebasestorage.googleapis.com/v0/b/webdescontos-a6530.appspot.com/o/Stores%2080x60%2Famericanas-com.png?alt=media&token=cb6805e0-6163-44e0-b318-c557adb51228
+Ricardo Eletro, Varejo, ricardo-eletro
+Submarino,	Varejo, submarino
+Girafa, Varejo, girafa
+Nike, Esporte e Lazer, nike
+Lenovo, Informática, lenovo
+Fnac, Livraria, fnac
+Walmart, Varejo, walmart
+Shoptime, Varejo, shoptime
+Livraria da Travessa, Livraria, livraria-travessa
+L'Occitane, Cosméticos e Perfumaria, loccitane
+Centauro, Esporte e Lazer, centauro
+Mobly, Móveis & Decoração, mobly
+Livraria da Folha, Livraria, livraria-folha
+Netshoes, Esporte e Lazer, netshoes
+Mega Mamute, Varejo, mega-mamute
+Ri Happy, Brinquedos e Bebês, rihappy
+Anna Pegova, Cosméticos e Perfumaria, anna-pegova
+Livraria Cultura, Livraria, livraria-cultura
+About Home, Móveis & Decoração, about-home
+Brastemp, Varejo, brastemp
+Classic Tennis, Esporte e Lazer, classic-tennis
+Sieno Perfumes, Cosméticos e Perfumaria, sieno-perfumes
+Zattini, Moda e acessórios, zattini
+Mash, Moda e acessórios, mash
+Moda It, Moda e acessórios, moda-it
+Super Muffato, Varejo, super-muffato
+Havan, Varejo, havan
+Multi Ar, Eletrodomésticos, multi-ar
+Joias Lulean, Varejo, joias-lulean
+MultiLaser, Varejo, multilaser
+Pneu Store, Automotivos, pneu-store
+Chico Rei, Moda e acessórios, chico-rei
+PB Kids, Brinquedos e Bebês, pb-kids
+Monama, Alimentos e Bebidas, monama
+TVZ, Moda e acessórios, tvz
+Gear Best, Varejo, gear-best
+Electrolux, Eletrodomésticos, eletrolux
+Jocar, Automotivos, jocar
+Calixto Cursos, Serviços, calixto-cursos	
+Repassa, Moda e acessórios, repassa
+Aramis, Moda e acessórios, aramis
+Asus, Telefonia e Celulares, asus
+Quantum, Telefonia e Celulares, quantum
+Catho, Serviços, catho
+Positivo, Telefonia e Celulares, positivo
+Lojas Pompeia, Moda e acessórios, lojas-pompeia
+Beline, Moda e acessórios, beline
+Troc, Moda e acessórios, troc
+Vaio, Telefonia e Celulares, vaio
+Estrela, Loja de departamento, estrela
+Key Design, Moda e acessórios, key-design
+Hermoso Compadre, Moda e acessórios, hermoso-compadre
+Malwee, Moda e acessórios, malwee
+Central Ar, Serviços, central-ar
+Beer Planet, Loja de departamento, beer-planet
+Aquelas Coisas, Sexshop, aquelas-coisas
+Reserva, Moda e acessórios, reserva
+Dresslily, Moda e acessórios, dresslily
+Rosegal, Moda e acessórios, rosegal
+Zaful, Moda e acessórios, zaful
+Novo Mundo, Varejo, novo-mundo
+Pierre Cardin, Moda e acessórios, pierra-cardin
+Samsonite, Moda e acessórios, sansonite
+Camicado, Varejo, camicado
+Nova Concursos, Serviços, novos-concursos
+Milla Cabelos, Cosméticos e Perfumaria, milla-cabelos
+People And Pets, Petshop, people-and-pets
+Use Malemolencia, Moda e acessórios, use-malemolencia
+Santo Rock, Moda e acessórios, santo-rock
+Wood Prime, Móveis & Decoração, wood-prime

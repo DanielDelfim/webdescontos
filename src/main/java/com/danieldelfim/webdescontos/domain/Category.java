@@ -32,7 +32,8 @@ public class Category implements Serializable {
 
 	@Column(length = 50)
 	private String urlSeoCategory;
-
+	
+	@Column(length = 10)
 	private Long idLomadee;
 
 }

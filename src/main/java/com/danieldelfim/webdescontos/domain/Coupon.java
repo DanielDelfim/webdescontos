@@ -64,7 +64,7 @@ public class Coupon  implements Serializable {
 	private Long acess;
 	
 	@Column(length = 100)
-	private Boolean newOrOld;
+	private String newOrOld;
 	
 	@Column(length = 100)
 	private String afiliadoCouponCategoryId;

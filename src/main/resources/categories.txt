@@ -1,0 +1,15 @@
+Informática, informatica
+Outras, outras
+Saúde e Beleza, saude-beleza
+Moda e Acessórios, moda-acessorios
+Eletrodomésticos, eletrodomesticos
+Esportes e Lazer, esporte-lazer
+Eletrônicos, eletronicos
+Celular/Smartphone, celular-smartphone
+CD DVD e Blu-Ray, cd-dvd-blu-ray
+Brinquedos, brinquedos
+Casa e Decoração, casa-decoracao
+TV, tv
+Automotivo, automotivo
+Games, gamos
+Livros, livros

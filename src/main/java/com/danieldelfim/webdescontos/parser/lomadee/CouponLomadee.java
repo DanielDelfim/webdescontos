@@ -1,7 +1,5 @@
 package com.danieldelfim.webdescontos.parser.lomadee;
 
-import java.util.Date;
-
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
@@ -40,9 +38,8 @@ public class CouponLomadee {
 	@SerializedName("link")
 	@Expose
 	public String link;
-	
-	@SerializedName("newOrOld")
+	@SerializedName("new")
 	@Expose
-	public Boolean newOrOld;
+	public String newOrOld;
 	
 }

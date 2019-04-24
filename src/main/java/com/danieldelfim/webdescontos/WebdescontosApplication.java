@@ -14,7 +14,6 @@ public class WebdescontosApplication {// implements CommandLineRunner
 
 	@Autowired
 	private CouponRepository couponRepository;
-
 	@Autowired
 	private StoreRepository storeRepository;
 	@Autowired
